@@ -1,6 +1,12 @@
 .sub {
     text-align: center;
-    color: rgb(106, 106, 241);
+    color: rgb(225, 108, 11);
     font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
     
 }
+.list {
+    display: flex;
+    align-items: center;
+}
+

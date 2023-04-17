@@ -17,4 +17,8 @@ li {
 }
 body {
     background-color: rgb(30, 28, 28);
+  
+}
+.app {
+    text-align: center;
 }

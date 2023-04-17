@@ -1,0 +1,9 @@
+.contenedorItem {
+    text-align: center;
+    border: 1px solid gray;
+    margin: 3rem;
+    background-color: aliceblue;
+}
+ img {
+    width: 50vw;
+ }
